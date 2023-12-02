@@ -1,0 +1,23 @@
+.layout {
+    /* border: 1px black solid; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    height: 50px;
+    position: sticky;
+    background-color: #2f4050;
+    color: aliceblue;
+}
+
+.profileArea {
+    display: flex;
+    flex-direction: row;
+    width: 2vw;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.icon {
+    padding: 5px;
+}

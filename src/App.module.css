@@ -1,0 +1,13 @@
+.App {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+}
+
+.body {
+    display: flex;
+    flex-direction: row;
+    height: 89.5vh;
+}

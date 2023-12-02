@@ -1,0 +1,16 @@
+.layout {
+    height: 100%;
+    width: 200px;
+    background-color: #2f4050;
+    display: flex;
+    flex-direction: column;
+    z-index: 1;
+    align-items: center;
+    /* justify-content: ; */
+}
+
+.navlink {
+    color: aliceblue;
+    padding: 30px;
+    text-decoration: none;
+}
